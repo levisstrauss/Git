@@ -2,6 +2,8 @@
 
 This repo is only for Git commands
 
+   rm -rf .git to remove the git to your project
+
 -----------CONFIGURATION------------
     GitHub for Windows
     https://windows.github.com
